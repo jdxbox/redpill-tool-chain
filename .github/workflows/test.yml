@@ -1,4 +1,4 @@
-name: box
+name: jdxbox
 
 on:
   workflow_dispatch:
